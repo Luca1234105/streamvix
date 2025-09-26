@@ -5,4 +5,5 @@ services:
     container_name: StreamVix
     build: .
     ports:
-      - "7860:7860"
+      - "7862:7860"
+
